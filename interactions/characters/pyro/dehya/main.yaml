@@ -20,17 +20,12 @@ options: #dropdown
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
   - label: Constellations
-    value: characters/pyro/dehya
-    description: WFP resources for Dehya FAQ.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
-
-  - label: Artifacts
-    value: characters/pyro/dehya
+    value: characters/pyro/dehya/constellations
     description: WFP resources for Dehya FAQ.
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
   - label: Weapons
-    value: characters/pyro/dehya
+    value: characters/pyro/dehya/weapons
     description: WFP resources for Dehya FAQ.
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
