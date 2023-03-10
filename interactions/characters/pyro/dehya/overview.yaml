@@ -1,0 +1,9 @@
+embeds:
+  - title: Dehya Overview
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: "https://cdn.discordapp.com/attachments/964616918336159814/1079284548065574953/dehyaintro.png"
+    description: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+    footer:
+      text: "Authored by: Emiliabyss"

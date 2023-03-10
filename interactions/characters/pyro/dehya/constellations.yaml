@@ -1,0 +1,9 @@
+embeds:
+  - title: Dehya Constellations
+    color: ${ COLORS.PYRO_ORANGE }
+    thumbnail:
+      url: "https://genshin.honeyhunterworld.com/img/c_791.webp"
+    description: |-
+      *> *Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:\n> - **Molten Inferno's DMG** will be increased by 3.6% of her Max HP.\n> - **Leonine Bite's DMG** will be increased by 6% of her Max HP.*\nThis Constellation gives Dehya more HP as well as additional HP scaling to her Skill and Burst, greatly increasing Dehya’s on-field damage output. In addition, the value of HP% becomes similar to ATK%, which allows players to slot in HP% Sands to gain survivability without losing damage. Overall a great stopping point for anyone who plans to use Dehya on-field. The bonus HP is also helpful for Dehya’s tanking ability from Redmane’s Blood.\n\nOn-field DPS Increase from C0: 35%\n\nRating: 4/5*
+    footer:
+      text: "Authored by: Emiliabyss"

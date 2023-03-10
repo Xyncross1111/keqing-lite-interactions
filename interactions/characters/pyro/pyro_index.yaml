@@ -54,3 +54,8 @@ options:
     value: characters/pyro/yoimiya/main
     description: KQM's resources on Yoimiya!
     emoji: "<:Yoimiya:953426426802094160>"
+
+  - label: Dehya
+    value: characters/pyro/dehya/main
+    description: KQM's resources on Yoimiya!
+    emoji: "<:Yoimiya:953426426802094160>"

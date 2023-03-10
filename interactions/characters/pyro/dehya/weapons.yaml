@@ -1,0 +1,9 @@
+embeds:
+  - title: Dehya Weapons
+    color: ${ COLORS.PYRO_ORANGE }
+    thumbnail:
+      url: "https://genshin.honeyhunterworld.com/img/i_n12511_awaken_icon.webp"
+    description: |-
+      Dehya’s weapons depend on whether she is built for reaction or non-reaction damage. Non-reaction damage (on-field) focuses on ER%, CRIT%, and ATK%, while reaction damage (off-field) focuses instead on pure Elemental Mastery.\n\nHere I will list the main recommendations, from her signature weapon to the most freely accessible weapon. However, for a more complete idea of weapon rankings, please refer to the mastersheet included here, make a copy, and play with the filters to examine the relationships with buffs in more detail.
+    footer:
+      text: "Authored by: Emiliabyss"

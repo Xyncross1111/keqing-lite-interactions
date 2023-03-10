@@ -1,0 +1,9 @@
+embeds:
+  - title: Dehya Talents
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: "https://media.discordapp.net/attachments/914675194939969587/1079617710335463424/dehya_talents_proper_2.png"
+    description: |-
+      *Some, but not much, of Dehya’s scaling includes HP, and since Dehya needs all the stats she can get, it may be advised to level her to 90.\n\nDehya’s multipliers on her Normal Attacks are lower than Xinyan’s (a 4-star Pyro Claymore wielder), with the same number of hits. Knowing this, it is not advised to use Dehya’s Normal Attacks at all. Instead, decide whether you will play Dehya on-field or off-field, and then level the corresponding Talents as listed above.\n\nDehya’s Skill has two uses that deal different amounts of damage. The first Skill use deals damage and creates a “Fiery Sanctum,” a field that attacks in coordination with your teammates, similar to Albedo’s Skill. The rate of coordinated attacks is once every 2.5 seconds, and while slow Pyro application is good to ensure you Burgeon instead of trigger Burning, 2.5 seconds is too slow and offers too few instances of Pyro application to be exploitable. The second Skill use deals more damage and can move the Fiery Sanctum to a new location without affecting its total 12s field time. This is what makes Burgeon Dehya viable. While her Skill is active, she also acts as a true bodyguard, taking a portion (from 30-50%) of her teammates’ damage across ten seconds.*
+    footer:
+      text: "Authored by: Emiliabyss"
