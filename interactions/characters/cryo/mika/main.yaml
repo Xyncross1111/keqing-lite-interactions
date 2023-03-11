@@ -1,0 +1,41 @@
+embeds:
+  - title: Mika FAQ
+    color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: https://genshin.honeyhunterworld.com/img/mika_080_gacha_splash.webp
+    description: |-
+      **A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.\n\nMika Mastersheet by \nKB#1111 and Luna#0188:**\n[Google] Sheet(https://docs.google.com/spreadsheets/d/1b6AK2wbHXq_V3Hv3FL1nskrneG-Zwj2awdKm_MVyP0Q/edit#gid=981902297)
+
+options: #dropdown
+    
+  - label: Overview
+    value: characters/cryo/mika/overview
+    description: WFP resources for Mika FAQ.
+    emoji: ${ Hutao_WOW }
+
+  - label: Talents
+    value: characters/cryo/mika/talents
+    description: WFP resources for mika FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Constellations
+    value: characters/cryo/mika/constellations
+    description: WFP resources for mika FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: ER, Weapons & Artifacts
+    value: characters/cryo/mika/ewa
+    description: WFP resources for mika FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Eula Teambuilding
+    value: characters/cryo/mika/weapons
+    description: WFP resources for mika FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+buttons:
+
+  - label: "WFP Website"
+    url: "https://wangshengfp.org/faq/d"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
