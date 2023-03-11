@@ -59,3 +59,8 @@ options:
     value: characters/cryo/shenhe/main
     description: KQM's resources on Shenhe!
     emoji: "<:Shenhe:953426426504294450>"
+
+  - label: Mika
+    value: characters/cryo/mika/main
+    description: WFP's resources on Mika!
+    emoji: "<:Shenhe:953426426504294450>"
